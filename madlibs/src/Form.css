@@ -1,0 +1,23 @@
+div {
+    text-align: center;
+}
+h1 {
+    font-size: 75px;
+}
+input {
+    text-align: left;
+    height: 30px;
+    width: 200px;
+    margin-top: .5%;
+    opacity: 70%;
+    border-color: whitesmoke;
+}
+button {
+    color: gray;
+    background-color: none;
+    opacity: 70%;
+    height: 30px;
+    width: 100px;
+    margin-top: 1%;
+}
+
